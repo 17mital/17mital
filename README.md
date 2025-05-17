@@ -52,7 +52,7 @@
 
 <!-- HackerRank Badges (Static Image or GitHub Repo Image) -->
 <a href="https://www.hackerrank.com/profile/patilmital4">
-  <img src="https://github.com/17mital/17mital/assets/YOUR-HACKERRANK-BADGES-PATH.png" width="400"/>
+  <img src="https://github.com/17mital/17mital/Screenshot 2025-05-17 222235.png" width="400"/>
 </a>
 
 <br/>
