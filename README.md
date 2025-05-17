@@ -18,7 +18,8 @@
 
 ## 🚀 About Me
 
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="300"/>
+
 
 
 👩‍💻 3rd Year Computer Engineering Student at NMIMS Shirpur  
