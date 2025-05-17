@@ -50,15 +50,12 @@
   <img src="https://leetcard.jacoblin.cool/mital2004?theme=dark&font=baloo&ext=contest" width="400"/>
 </a>
 
-<!-- HackerRank Badges (Static Image or GitHub Repo Image) -->
-<a href="https://www.hackerrank.com/profile/patilmital4">
-  <img src="https://github.com/17mital/17mital/Screenshot 2025-05-17 222235.png" width="400"/>
-</a>
+
 
 <br/>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mital2004/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/patilmital4)
+
 
 </div>
 
