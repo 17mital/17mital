@@ -6,6 +6,8 @@
 <!-- Tech Vibes GIF -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
+
+
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F5726C&center=true&vCenter=true&width=1000&lines=Hi+I'm+Mital+Patil;MERN+Stack+Web+Developer;Machine+Learning+Enthusiast;AR/VR+Explorer;Artist+%26+Tech+Lover)](https://git.io/typing-svg)
 
@@ -18,7 +20,9 @@
 
 ## 🚀 About Me
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400"/>
+
+
 
 
 
