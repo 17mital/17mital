@@ -1,83 +1,136 @@
-<h1 align="center">Hi 👋, I'm Mital Patil</h1>
-<h3 align="center">🚀 MERN Stack Developer | 🎓 NMIMS'26 | 🤖 Machine Learning Enthusiast</h3>
+<div align="center">
+
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,100:3813C2&height=280&section=header&text=Mital%20Patil&fontSize=65&fontColor=fff&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20ML%20Intern%20|%20NMIMS'26&descAlign=50&descAlignY=60" width="100%" />
+
+<!-- Tech Vibes GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F5726C&center=true&vCenter=true&width=1000&lines=Hi+I'm+Mital+Patil;MERN+Stack+Web+Developer;Machine+Learning+Enthusiast;AR/VR+Explorer;Artist+%26+Tech+Lover)](https://git.io/typing-svg)
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=17mital&style=for-the-badge&color=FF69B4" alt="Profile Views" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="300"/>
+
+👩‍💻 3rd Year Computer Engineering Student at NMIMS Shirpur  
+💡 MERN Stack Dev | ML Intern | AR/VR Enthusiast  
+🎯 Working on real-world projects combining AI + Web + Immersive Tech  
+🎨 Sketching, painting, and designing are my creative escapes  
+📈 Learning Java DSA, exploring AI models & full-stack deployments
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mitalpatil)  
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mitalpatil.vercel.app/)  
+[![YouTube](https://img.shields.io/badge/YouTube-DD0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Mital_Patil)
+
+---
+
+## 🧠 Projects
+
+- 🧘‍♀️ [**Happiness Unlimited (AR/VR Mental Health App)**](https://github.com/17mital/Mental_Health_ARVR_App)
+- 🧭 [**Smart Campus Navigator**](https://github.com/17mital/Smart-Campus-Navigator)
+- 🤖 [**Samsung Support Chatbot (RAG Model)**](https://github.com/17mital/Samsung-ChatBot)
+- 🎓 [**Career Advisor Chatbot (OpenAI + Flask)**](https://career-advisor-chatbot-omega.vercel.app/chat)
+- 🏠 [**WanderLust (Airbnb Clone)**](https://sigma-project-bkyd.onrender.com/)
+- 📱 [**Trip Expense Manager (Android)**] – Java + Firebase + SQLite
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Web:**  
+`C` `C++` `Java` `Python` `JavaScript` `HTML` `CSS`
+
+**Frameworks & Tools:**  
+`React.js` `Node.js` `Express.js` `MongoDB` `Flask` `Firebase` `Android Studio` `Unity` `MediaPipe` `Docker` `CI/CD` `AWS Basics`
+
+**ML/DS:**  
+`Scikit-Learn` `Pandas` `NumPy` `TensorFlow` `OpenCV` `Supervised ML` `LangChain` `RAG Architecture`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=17mital&show_icons=true&theme=radical&hide_border=true" width="45%"/>
+<img src="https://streak-stats.demolab.com?user=17mital&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17mital&layout=compact&theme=radical&hide_border=true" width="45%"/>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🏆 Projects & Achievements
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Samsung Chatbot (RAG Model)** | Voice-enabled support bot with Hindi/English and GROC API | LangChain, Flask, React, SST/TTS |
+| **Smart Campus Navigator** | Navigation system with Dijkstra’s algorithm & OSM map | React.js, Leaflet, ML, Flask |
+| **Happiness Unlimited** | AR/VR App for emotional wellbeing | Unity, MediaPipe, Python |
+| **Career Advisor Chatbot** | AI-powered academic stream suggestion tool | OpenAI, Flask, Firebase |
+| **WanderLust** | MERN-based Airbnb clone with booking UI | MongoDB, Express, React, Node.js |
+| **Trip Expense Manager App** | Android app for group trip splitting | Java, Firebase, SQLite |
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🎓 Education & Certifications
+
+- 🎓 **B.Tech in Computer Engineering**  
+  SVKM's NMIMS MPSTME, Shirpur (2022–2026)  
+  CGPA: **3.63/4.0**
+
+- 📜 **Top Certifications**
+  - Supervised Machine Learning (DeepLearning.AI)
+  - AI For Everyone (Coursera)
+  - Full Stack Web Dev (Apna College – Sigma)
+  - Foundations of Project Management (Google)
+  - 5★ C++ – HackerRank
+  - Java, Python, C, C++ – Great Learning
+
+
+<div align="center">
+  <h3>💬 Let’s connect and create something awesome!</h3>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitalpatil/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/17mital)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilmital4@gmail.com)
+
+</div>
+
+---
+
+## ✨ Dev Quote
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Tech+Enthusiast+%7C+ML+Intern+%7C+React+Dev;Building+innovative+AI+%2B+Web+solutions" alt="Typing SVG" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" width="80%"/>
 </p>
 
 ---
 
-### 💫 About Me
-✨ I’m an aspiring Computer Engineer passionate about building real-world, scalable web and AI solutions.  
-💡 Skilled in the **MERN stack**, exploring **AR/VR + ML**, and love solving problems with creativity and collaboration.  
-🎨 When not coding, I'm creating art — check out my sketches on YouTube and Instagram!  
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
----
+<div align="center">
+  <h3>🎨 Created with ❤️ by Mital Patil</h3>
+</div>
 
-### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitalpatil)  
-[![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Mital_Patil)  
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mitalpatil.vercel.app/)  
-
----
-
-### 🛠️ Tech Stack
-
-#### 🧠 Programming & Web
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🧩 Frameworks & Tools
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-#### 📚 ML / AI / Data
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-%23ee4c2c.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=17mital&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=17mital&theme=github-dark-blue&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17mital&layout=compact&theme=github_dark&hide_border=true" width="49%"/>
-</p>
-
----
-
-### ✍️ Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-### 🧠 Top Projects
-
-- 🔗 [Happiness Unlimited (AR/VR + ML App)](https://github.com/17mital/Mental_Health_ARVR_App)
-- 🔗 [Smart Campus Navigator (React + Dijkstra)](https://github.com/17mital/Smart-Campus-Navigator)
-- 🔗 [Samsung Support Chatbot (LangChain + RAG)](https://github.com/17mital/Samsung-ChatBot)
-- 🔗 [Career Advisor Chatbot](https://career-advisor-chatbot-omega.vercel.app/chat)
-- 🔗 [WanderLust Airbnb Clone](https://sigma-project-bkyd.onrender.com/)
-
----
-
-
-<!-- Made with ❤️ by Mital Patil -->
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%">
