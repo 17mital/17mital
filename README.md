@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,100:3813C2&height=280&section=header&text=Mital%20Patil&fontSize=65&fontColor=fff&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20ML%20Intern%20|%20NMIMS'26&descAlign=50&descAlignY=60" width="100%" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F5726C&center=true&vCenter=true&width=1000&lines=Hi+I'm+Mital+Patil;MERN+Stack+Web+Developer;Machine+Learning+Enthusiast;AR/VR+Explorer;Artist+%26+Tech+Lover)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=17mital&style=flat-square&color=FF69B4" alt="Profile Views" />
@@ -14,27 +12,8 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
-
-- 👩‍💻 3rd Year Computer Engineering Student @ **NMIMS Shirpur**
-- 🔭 Intern at **Spwebdevs** & **Apna College** (MERN stack)
-- 🌱 Learning **DSA in Java**, exploring **ML/AI integration with Web**
-- 💡 Building real-world projects in **AR/VR**, **AI**, **Chatbots**, and more!
-- 🎨 Outside tech? I sketch, doodle, paint, and run a YouTube art channel!
+- 👩‍💻 4rd Year Computer Engineering Student @ **NMIMS Shirpur**
 - 🎯 Passionate about merging **creativity** with **technology** to solve problems.
-
----
-
-## 🧠 Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [**Happiness Unlimited**](https://github.com/17mital/Mental_Health_ARVR_App) | AR/VR app for mental wellness using smile detection | Unity, MediaPipe, Python |
-| [**Smart Campus Navigator**](https://github.com/17mital/Smart-Campus-Navigator) | College navigation system using maps + Dijkstra’s algo | React.js, ML, Flask |
-| [**Samsung Chatbot (RAG)**](https://github.com/17mital/Samsung-ChatBot) | Support bot using retrieval-augmented generation | LangChain, Flask, TTS/SST |
-| [**Career Advisor Bot**](https://career-advisor-chatbot-omega.vercel.app/chat) | AI chatbot for academic guidance | OpenAI, Flask, Firebase |
-| [**WanderLust (Airbnb Clone)**](https://sigma-project-bkyd.onrender.com/) | Fully functional MERN-based travel booking site | MongoDB, React, Node.js |
-| Trip Expense Manager | Android app to track shared group expenses | Java, SQLite, Firebase |
 
 ---
 
@@ -70,23 +49,16 @@
 
 ---
 
+
 ## 🧩 DSA & LeetCode Journey
-
-<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="240"/>
-
-- 💻 Practicing DSA regularly in **Java**
-- ✅ Solved over **X+ problems** on **LeetCode**  
-- 🔍 Topics Covered:
-  - Arrays, Strings, Hashing, Two Pointers
-  - Sliding Window, Recursion, Sorting & Searching
-  - Stack & Queue, Linked List, Trees, Binary Search
-- 👩‍💻 Currently building mini-projects to apply DSA logic
 
 <!-- LeetCode Stats Card (Optional) -->
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mital2004?theme=dark&font=Source%20Code%20Pro&ext=activity" width="50%" />
 </p>
+
 ---
+
 ## 📊 GitHub Stats & Contributions
 
 <div align="center">
@@ -109,7 +81,7 @@
 ## 🎓 Education & Certifications
 
 - **B.Tech in Computer Engineering** — NMIMS MPSTME Shirpur (2022–2026)  
-  CGPA: 3.63 / 4.0
+  CGPA: 3.67 / 4.0
 
 ### 📜 Certifications
 - Supervised Machine Learning – DeepLearning.AI  
@@ -118,6 +90,18 @@
 - Foundations of Project Management – Google  
 - 5⭐ C++ – HackerRank  
 - Java, Python, C, C++ – Great Learning Academy
+
+---
+## 🧠 Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [**Happiness Unlimited**](https://github.com/17mital/Mental_Health_ARVR_App) | AR/VR app for mental wellness using smile detection | Unity, MediaPipe, Python |
+| [**Smart Campus Navigator**](https://github.com/17mital/Smart-Campus-Navigator) | College navigation system using maps + Dijkstra’s algo | React.js, ML, Flask |
+| [**Samsung Chatbot (RAG)**](https://github.com/17mital/Samsung-ChatBot) | Support bot using retrieval-augmented generation | LangChain, Flask, TTS/SST |
+| [**Career Advisor Bot**](https://career-advisor-chatbot-omega.vercel.app/chat) | AI chatbot for academic guidance | OpenAI, Flask, Firebase |
+| [**WanderLust (Airbnb Clone)**](https://sigma-project-bkyd.onrender.com/) | Fully functional MERN-based travel booking site | MongoDB, React, Node.js |
+| Trip Expense Manager | Android app to track shared group expenses | Java, SQLite, Firebase |
 
 ---
 
