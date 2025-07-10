@@ -1,18 +1,12 @@
 <div align="center">
 
-<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6FD8,100:3813C2&height=280&section=header&text=Mital%20Patil&fontSize=65&fontColor=fff&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20ML%20Intern%20|%20NMIMS'26&descAlign=50&descAlignY=60" width="100%" />
 
-<!-- Tech Vibes GIF -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
-
-
-<!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F5726C&center=true&vCenter=true&width=1000&lines=Hi+I'm+Mital+Patil;MERN+Stack+Web+Developer;Machine+Learning+Enthusiast;AR/VR+Explorer;Artist+%26+Tech+Lover)](https://git.io/typing-svg)
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=17mital&style=for-the-badge&color=FF69B4" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=17mital&style=flat-square&color=FF69B4" alt="Profile Views" />
 
 </div>
 
@@ -20,125 +14,102 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280"/>
 
-
-
-
-
-👩‍💻 3rd Year Computer Engineering Student at NMIMS Shirpur  
-💡 MERN Stack Dev | ML Intern | AR/VR Enthusiast  
-🎯 Working on real-world projects combining AI + Web + Immersive Tech  
-🎨 Sketching, painting, and designing are my creative escapes  
-📈 Learning Java DSA, exploring AI models & full-stack deployments
-
----
-
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mitalpatil)  
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mitalpatil.vercel.app/)  
-[![YouTube](https://img.shields.io/badge/YouTube-DD0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Mital_Patil)
-
----
-## 📚 Coding Profiles & Stats
-
-<div align="center">
-
-<!-- LeetCode Stats (Live) -->
-<a href="https://leetcode.com/u/mital2004/">
-  <img src="https://leetcard.jacoblin.cool/mital2004?theme=dark&font=baloo&ext=contest" width="400"/>
-</a>
-
-
-
-<br/>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mital2004/)
-
-
-</div>
+- 👩‍💻 3rd Year Computer Engineering Student @ **NMIMS Shirpur**
+- 🔭 Intern at **Spwebdevs** & **Apna College** (MERN stack)
+- 🌱 Learning **DSA in Java**, exploring **ML/AI integration with Web**
+- 💡 Building real-world projects in **AR/VR**, **AI**, **Chatbots**, and more!
+- 🎨 Outside tech? I sketch, doodle, paint, and run a YouTube art channel!
+- 🎯 Passionate about merging **creativity** with **technology** to solve problems.
 
 ---
 
 ## 🧠 Projects
 
-- 🧘‍♀️ [**Happiness Unlimited (AR/VR Mental Health App)**](https://github.com/17mital/Mental_Health_ARVR_App)
-- 🧭 [**Smart Campus Navigator**](https://github.com/17mital/Smart-Campus-Navigator)
-- 🤖 [**Samsung Support Chatbot (RAG Model)**](https://github.com/17mital/Samsung-ChatBot)
-- 🎓 [**Career Advisor Chatbot (OpenAI + Flask)**](https://career-advisor-chatbot-omega.vercel.app/chat)
-- 🏠 [**WanderLust (Airbnb Clone)**](https://sigma-project-bkyd.onrender.com/)
-- 📱 [**Trip Expense Manager (Android)**] – Java + Firebase + SQLite
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [**Happiness Unlimited**](https://github.com/17mital/Mental_Health_ARVR_App) | AR/VR app for mental wellness using smile detection | Unity, MediaPipe, Python |
+| [**Smart Campus Navigator**](https://github.com/17mital/Smart-Campus-Navigator) | College navigation system using maps + Dijkstra’s algo | React.js, ML, Flask |
+| [**Samsung Chatbot (RAG)**](https://github.com/17mital/Samsung-ChatBot) | Support bot using retrieval-augmented generation | LangChain, Flask, TTS/SST |
+| [**Career Advisor Bot**](https://career-advisor-chatbot-omega.vercel.app/chat) | AI chatbot for academic guidance | OpenAI, Flask, Firebase |
+| [**WanderLust (Airbnb Clone)**](https://sigma-project-bkyd.onrender.com/) | Fully functional MERN-based travel booking site | MongoDB, React, Node.js |
+| Trip Expense Manager | Android app to track shared group expenses | Java, SQLite, Firebase |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Web:**  
-`C` `C++` `Java` `Python` `JavaScript` `HTML` `CSS`
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Frameworks & Tools:**  
-`React.js` `Node.js` `Express.js` `MongoDB` `Flask` `Firebase` `Android Studio` `Unity` `MediaPipe` `Docker` `CI/CD` `AWS Basics`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FE8040?style=flat-square)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**ML/DS:**  
-`Scikit-Learn` `Pandas` `NumPy` `TensorFlow` `OpenCV` `Supervised ML` `LangChain` `RAG Architecture`
+**ML & AI:**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%236A1B9A.svg?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
 
 <div align="center">
 
+<!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=17mital&show_icons=true&theme=radical&hide_border=true" width="45%"/>
-<img src="https://streak-stats.demolab.com?user=17mital&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" width="45%"/>
+<img src="https://streak-stats.demolab.com?user=17mital&theme=radical&hide_border=true" width="45%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17mital&layout=compact&theme=radical&hide_border=true" width="45%"/>
 
-</div>
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=17mital&theme=radical&no-frame=true&row=1&margin-w=15" />
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 🏆 Projects & Achievements
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Samsung Chatbot (RAG Model)** | Voice-enabled support bot with Hindi/English and GROC API | LangChain, Flask, React, SST/TTS |
-| **Smart Campus Navigator** | Navigation system with Dijkstra’s algorithm & OSM map | React.js, Leaflet, ML, Flask |
-| **Happiness Unlimited** | AR/VR App for emotional wellbeing | Unity, MediaPipe, Python |
-| **Career Advisor Chatbot** | AI-powered academic stream suggestion tool | OpenAI, Flask, Firebase |
-| **WanderLust** | MERN-based Airbnb clone with booking UI | MongoDB, Express, React, Node.js |
-| **Trip Expense Manager App** | Android app for group trip splitting | Java, Firebase, SQLite |
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=17mital&theme=react-dark&hide_border=true" width="100%"/>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+---
 
 ## 🎓 Education & Certifications
 
-- 🎓 **B.Tech in Computer Engineering**  
-  SVKM's NMIMS MPSTME, Shirpur (2022–2026)  
-  CGPA: **3.63/4.0**
+- **B.Tech in Computer Engineering** — NMIMS MPSTME Shirpur (2022–2026)  
+  CGPA: 3.63 / 4.0
 
-- 📜 **Top Certifications**
-  - Supervised Machine Learning (DeepLearning.AI)
-  - AI For Everyone (Coursera)
-  - Full Stack Web Dev (Apna College – Sigma)
-  - Foundations of Project Management (Google)
-  - 5★ C++ – HackerRank
-  - Java, Python, C, C++ – Great Learning
+### 📜 Certifications
+- Supervised Machine Learning – DeepLearning.AI  
+- AI for Everyone – Coursera  
+- Full Stack Web Dev – Apna College (Sigma Batch)  
+- Foundations of Project Management – Google  
+- 5⭐ C++ – HackerRank  
+- Java, Python, C, C++ – Great Learning Academy
 
+---
 
-<div align="center">
-  <h3>💬 Let’s connect and create something awesome!</h3>
+## 🤝 Let's Connect
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitalpatil/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/17mital)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilmital4@gmail.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mitalpatil)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-mitalpatil.vercel.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@Mital_Patil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:patilmital4@gmail.com)
 
 ---
 
@@ -150,12 +121,10 @@
 
 ---
 
-<!-- Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <div align="center">
   <h3>🎨 Created with ❤️ by Mital Patil</h3>
 </div>
 
-<!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%">
