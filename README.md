@@ -70,6 +70,23 @@
 
 ---
 
+## 🧩 DSA & LeetCode Journey
+
+<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="240"/>
+
+- 💻 Practicing DSA regularly in **Java**
+- ✅ Solved over **X+ problems** on **LeetCode**  
+- 🔍 Topics Covered:
+  - Arrays, Strings, Hashing, Two Pointers
+  - Sliding Window, Recursion, Sorting & Searching
+  - Stack & Queue, Linked List, Trees, Binary Search
+- 👩‍💻 Currently building mini-projects to apply DSA logic
+
+<!-- LeetCode Stats Card (Optional) -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mital2004?theme=dark&font=Source%20Code%20Pro&ext=activity" width="50%" />
+</p>
+---
 ## 📊 GitHub Stats & Contributions
 
 <div align="center">
